@@ -323,6 +323,29 @@
         "است"
       ],
       "image": "https://dkstatics-public.digikala.com/digikala-products/2431739.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+    },
+      {
+      "id": 15,
+      "category": "salad",
+      "foodName": "سالاد",
+      "favorite": false,
+      "price": 10000,
+      "ingredients": [
+        "لورم",
+        "ایپسوم",
+        "متن",
+        "ساختگی",
+        "تولید",
+        "سادگی",
+        "نامفهوم",
+        "صنعت",
+        "چاپ",
+        "استفاده",
+        "طراحان",
+        "گرافیک",
+        "است"
+      ],
+      "image": "https://cdn.snappfood.ir/uploads/images/tags/website_image_salad_1.jpg"
     }
   ],
   "cart": {
